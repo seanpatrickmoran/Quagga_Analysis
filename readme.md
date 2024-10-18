@@ -8,8 +8,8 @@ Once we decided on a 3C family file, we visualize the file using lighthouse or j
 
 Now that we have stripe files, we first examine the outputs against our diagnostic region to choose the ideal parameters (notebook 1).
 
-Third, aggregrate stripe integrity is checked with standard APA analysis (notebook 2).
+Second, aggregrate stripe integrity is checked with standard APA analysis (notebook 2).
 
 Third, once satisfied, we do intersecting or non intersecting intervals to assign CTCF or enhancer-promoter activity (notebook 3).
 
-Finally, we perform epigenomic pileups with the assistance of "process_for_epi.py" to load our factors into .npy and form the correct filestructure.
+Finally, we perform epigenomic pileups with the assistance of "process_for_epi.py" to load our factors into .npy and form the correct filestructure (notebook 4).
