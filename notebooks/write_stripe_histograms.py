@@ -66,7 +66,7 @@ if __name__ == '__main__':
     name = "063124_All_EP"
     samples1 = {
         'Quagga': '/home/spmoran/temp_smoran/Fan_StripeCaller/2024_SummerPublishPush/ctcf_deficient/Othermodels/Quagga_GM12878_EP.txt',
-    #    'Zebra': '/home/spmoran/temp_smoran/Fan_StripeCaller/2024_SummerPublishPush/ctcf_deficient/Othermodels/Zebra_AB_Merged_GM12878_EP.txt',
+        'Zebra': '/home/spmoran/temp_smoran/Fan_StripeCaller/2024_SummerPublishPush/ctcf_deficient/Othermodels/Zebra_AB_Merged_GM12878_EP.txt',
         'StripeNN': '/home/spmoran/temp_smoran/Fan_StripeCaller/2024_SummerPublishPush/ctcf_deficient/Othermodels/StripeNN_GM12878_EP.txt',
     }
     samples2 = {
